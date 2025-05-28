@@ -88,5 +88,5 @@ cd KRSR-Electronic-Store
 
 Run the app:
 ```bash
-python app.py
+python server.py
 Visit http://127.0.0.1:5000/ in your browser.
